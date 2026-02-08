@@ -21,6 +21,7 @@ Bitencourt, H., Orang, O., Souza, L., Silva, P., Guimarães, F.: An embedding-ba
 
 Please cite using the following BibTex entry:
 
+```
 @article{Bitencourt2022MO-ENSFTS,
 author = {Bitencourt, Hugo Vinicius and Orang, Omid and de Souza, Luiz Augusto Facury and Silva, Petr\^{o}nio C. L. and Guimar\~{a}es, Frederico Gadelha},
 title = {An Embedding-Based Non-Stationary Fuzzy Time Series Method for Multiple Output High-Dimensional Multivariate Time Series Forecasting in IoT Applications},
@@ -39,3 +40,4 @@ pages = {9407–9420},
 numpages = {14},
 keywords = {Multivariate time series, Embedding transformation, Fuzzy time series, Internet of things, Time series forecasting}
 }
+```
